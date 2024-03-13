@@ -3,6 +3,6 @@
 int main() {
 	printf("Hello World");
 	printf("Hello GitHub");
-	printf("Sửa file");
+	printf("Edit file");
 	return 0;
 }
